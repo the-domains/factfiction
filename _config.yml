@@ -1,4 +1,6 @@
 typography_spectrum: 0.6244942895136774
+content_rating:
+  adult: false
 color:
   brandStrength: 0.460702475393191
   lightness: 0.4730800816323608
@@ -10,7 +12,12 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
+opengraph:
+  appId: ''
 layout_spectrum: 0.23497436358593404
+author:
+  name: SANDRA LUKOSIUTE
+  email: SANDRALUKOSIUTE22@GMAIL.COM
 name: Fact&Fiction
 navigation:
   - name: Twitter
