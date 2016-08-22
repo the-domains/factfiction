@@ -12,5 +12,9 @@ color:
     - '#253237'
 layout_spectrum: 0.23497436358593404
 name: Fact&Fiction
+navigation:
+  - name: Social Media
+    url: 'https://twitter.com/SandraLukosiut1'
+    type: external
 title: FACT&FICTION
 description: SANDRA LUKOSIUTE
